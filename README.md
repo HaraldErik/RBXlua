@@ -8,6 +8,8 @@
 # Elite Hub #
 ```loadstring(game:HttpGet("https://raw.githubusercontent.com/HaraldErik/RBXlua/refs/heads/main/Elite%20hub.lua"))()```
 
+#Below this are stuff that dont work are work in progress#
+
 # Aimbot script+ESP. Recomended for Arsenal #
 it does not seem to be detected but i have not tried in the long run. Tested with Swift Executor (Most Executors are detected in the long run anyways so dont use on main)
 ```
